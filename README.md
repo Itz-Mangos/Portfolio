@@ -6,13 +6,15 @@ Get to learn about me while learning what each project achieves.
 
 Software Projects - The Main Area for Software. Ex: Logic Gates
 
-Hardware Repairs - The Folder for Hardware Repair Showcases. All Aurbit and personal repairs go here.
+  Previous Software Creations - Earlier Models of Software Created When I Was Younger.
 
-Hardware Projects - Includes Building/Connecting Hardware To Execute Functions.
+Hardware Repairs - The Folder for Hardware Repair Showcases. All Aurbit And Personal Repairs Go Here. Ex: PS4 Repair
+
+Hardware Projects - Includes Building/Connecting Hardware To Execute Functions. Ex: Robotics
 
 # Description of each project:
 
-## Software Projects
+## Software Projects (See Previous Software Creations for Info on Older Software)
 ### Project #1: 1-Bit Compactor
 Using logic gates that evaluate two single-bit inputs, it's able to compare if A is greater than, equal to, or less than B.
 Refer to Project #1 for more details + images of the code's function.
