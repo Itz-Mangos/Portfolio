@@ -9,3 +9,8 @@ Purpose: Functions to compare 2 inputs, detecting if values are equal to, less t
 - Equal (A==B with both either being 0 or 1 value) (XNOR function)
 - Greater than (A>B with A being 1 and B being 0) (AND + NOT B function)
 - Less than (A<B with A being 0 and B being 1) (AND + NOT A function)
+
+## How to open code and view it:
+- Ensure you have Logisim or another software capable of viewing circuitry with .circ file extension type.
+- Download the file in the folder named "project1example.circ"
+- Run the file through the software installed on the device.
